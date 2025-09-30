@@ -3,9 +3,9 @@
 
 # using list - creating student records
 # student details
-student_1 = ['Madhav', 10] # Name, Grade
-student_2 = ['Vishakha', 12] 
-student_3 = 'Keshav'
+student_1 = ['rafay', 10] # Name, Grade
+student_2 = ['umer', 12] 
+student_3 = 'amir'
 
 student_1.append('A')
 print(student_1)
